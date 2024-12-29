@@ -1,4 +1,4 @@
-# Cohort-Analysis
+# Cohort Analysis
 
 This repository shows cohort analysis, starting from SQL queries to visualize the results in Python. The analysis focuses on understanding customer retention and purchase trends over time.
 
